@@ -18,7 +18,8 @@ A simple and secure password generator for your wallet that is made in c#.
 
 ### Installation
 
-Clone the repository to your local machine:
+- Install the Repository as a .zip file
+- Start the file
 
 
 ### Usage
@@ -36,3 +37,7 @@ Contributions are welcome! If you would like to contribute, please create a pull
 ## Acknowledgments
 
 - none right now
+
+## Support
+
+-for Help join my [discord](https://discord.gg/EfeqhFwpE3)
