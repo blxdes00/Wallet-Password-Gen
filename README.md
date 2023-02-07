@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/blxdes00/Wallet-Password-Gen/blob/master/LICENSE)
 
-A simple and secure password generator for your wallet.
+A simple and secure password generator for your wallet that is made in c#.
 
 ## Features
 
