@@ -40,4 +40,4 @@ Contributions are welcome! If you would like to contribute, please create a pull
 
 ## Support
 
--for Help join my [discord](https://discord.gg/EfeqhFwpE3)
+- for Help join my [discord](https://discord.gg/EfeqhFwpE3)
