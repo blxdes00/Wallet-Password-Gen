@@ -35,5 +35,4 @@ Contributions are welcome! If you would like to contribute, please create a pull
 
 ## Acknowledgments
 
-- [Python Standard Library](https://docs.python.org/3/library/index.html)
-- [random module](https://docs.python.org/3/library/random.html)
+- none right now
