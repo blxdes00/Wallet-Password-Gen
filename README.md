@@ -4,6 +4,10 @@
 
 A simple and secure password generator for your wallet that is made in c#.
 
+## Future ideas
+
+- Unicode Characters
+
 ## Features
 
 - Generates random, strong passwords
